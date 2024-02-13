@@ -1,4 +1,4 @@
-
+import random
 
 def takeInput():
     while True:
