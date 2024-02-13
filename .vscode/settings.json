@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.automationProfile.mac": {
+        // Add any macOS-specific configurations here if needed
+    },
+    "terminal.integrated.defaultProfile.linux": "",
+    "terminal.integrated.env.windows": {
+        
+    },
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    // Other settings...
+}
